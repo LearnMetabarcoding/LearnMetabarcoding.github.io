@@ -6,6 +6,7 @@ body {
     margin: 0px;
     font-family: Lato,proxima-nova,Helvetica Neue,Arial,sans-serif;
     text-align: center;
+    color: #404040;
 }
 .wrapper {
     display: grid;
